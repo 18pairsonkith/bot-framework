@@ -26,4 +26,4 @@ go build . && ./framework -r "all"
 
 Credits to https://github.com/g4cko, https://github.com/trrai, as well as https://github.com/Epacity for the LV module code.
 
-Also big shoutout to https://github.com/amcode21 for teaching me what I know.
+Also big shoutout to https://github.com/amcode21 and 18pairsonkith for teaching me what I know.
